@@ -1,0 +1,13 @@
+.greeting {
+  text-align: center;
+  border: solid white .5px;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 10px;
+  transition: .3s;
+}
+.greeting:hover {
+  background-color: rgb(215, 215, 215);
+  color: rgb(52, 52, 52);
+  cursor: pointer;
+}
